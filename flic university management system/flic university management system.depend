@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1675278931 source:c:\users\mui\desktop\project 1\flic university management system\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+
